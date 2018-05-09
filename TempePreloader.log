@@ -1,0 +1,789 @@
+07 Aug 2014 14:16:37 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 14:16:37 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 14:19:25 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+07 Aug 2014 14:20:02 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+07 Aug 2014 14:20:16 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040.csv
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53130_I2014_Z_6953_303_040.csv
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53131_I2014_Z_6953_303_040.csv
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-07--02-21-09.txt
+07 Aug 2014 14:21:09 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-07--02-21-09.txt
+07 Aug 2014 15:56:51 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 15:56:51 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 15:56:51 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 15:56:51 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 15:57:44 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 15:57:44 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 15:57:44 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 15:57:44 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 15:58:26 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 15:58:26 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 15:58:26 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 15:58:26 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 16:07:55 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 16:07:55 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 16:07:55 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 16:07:55 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 16:13:16 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 16:13:16 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 16:13:16 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 16:13:16 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 16:13:51 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:13:51 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:13:51 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-07--04-13-51.txt
+07 Aug 2014 16:13:51 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-07--04-13-51.txt
+07 Aug 2014 16:14:44 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 16:14:44 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 16:14:44 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 16:14:44 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 16:14:47 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:14:47 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:14:47 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-07--04-14-47.txt
+07 Aug 2014 16:14:47 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-07--04-14-47.txt
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040.csv
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53130_I2014_Z_6953_303_040.csv
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53131_I2014_Z_6953_303_040.csv
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-07--04-15-40.txt
+07 Aug 2014 16:15:40 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-07--04-15-40.txt
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040.csv
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.GroupList  - 53129
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53130_I2014_Z_6953_303_040.csv
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53131_I2014_Z_6953_303_040.csv
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-07--09-30-36.txt
+07 Aug 2014 21:30:36 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-07--09-30-36.txt
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.GroupList  - 53129
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53130_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:01:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53131_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:02:44 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.GroupList  - 53129
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53129_I2014_Z_6953_303_040_RFID.csv
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53130_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:03:47 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0736_53131_I2014_Z_6953_303_040.csv
+08 Aug 2014 08:03:57 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-08-08--08-03-57.txt
+08 Aug 2014 08:03:58 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-08-08--08-03-57.txt
+16 Sep 2014 14:41:45 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Sep 2014 14:41:46 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Sep 2014 14:42:11 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11184_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:42:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11185_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:42:41 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11186_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11187_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11190_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11191_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11192_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2328_11182_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2328_11183_V2015_Z_3104_001_040-1.csv
+16 Sep 2014 14:53:35 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-09-16--02-53-35.txt
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11184_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11185_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11186_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11187_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11190_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11191_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11192_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:55:38 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-09-16--02-55-38.txt
+16 Sep 2014 14:58:56 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Sep 2014 14:58:57 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Sep 2014 14:59:00 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11184_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11185_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11186_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11187_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11190_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11191_V2015_Z_3104_001_040.csv
+16 Sep 2014 14:59:13 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11192_V2015_Z_3104_001_040.csv
+16 Sep 2014 15:00:31 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Sep 2014 15:00:32 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Sep 2014 15:00:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11184_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:38:42 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+19 Sep 2014 09:38:43 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11184_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11185_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11186_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11187_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11190_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11191_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\01047_11192_V2015_Z_3104_001_040.csv
+19 Sep 2014 09:39:47 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-09-19--09-39-47.txt
+19 Sep 2014 10:20:20 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+19 Sep 2014 10:20:21 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13298_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.GroupList  - 13298
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13299_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13301_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13302_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13303_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:20:34 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\02106_13304_V2015_Z_3222_001_091.csv
+19 Sep 2014 10:21:46 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.Group  - Callout 50-Zara Trafaluc Marca omitted from output
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2014-09-19--10-20-40.txt
+19 Sep 2014 10:21:55 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2014-09-19--10-20-40.txt
+18 Nov 2014 10:19:03 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+15 Dec 2014 14:09:15 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+23 Jan 2015 15:29:12 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+23 Jan 2015 15:29:12 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1230_23120_V2015_Z_1791_003_001 (1).csv
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.GroupList  - 23120
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1230_23121_V2015_Z_1791_003_001 (3).csv
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1230_23122_V2015_Z_1791_003_001 (2).csv
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1230_23123_V2015_Z_1791_003_001 (2).csv
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1230_23124_V2015_Z_1791_003_001 (5).csv
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-01-23--03-29-17.txt
+23 Jan 2015 15:29:17 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-01-23--03-29-17.txt
+10 Feb 2015 09:51:53 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+27 Feb 2015 15:54:05 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+10 Mar 2015 15:36:03 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+21 Mar 2015 16:15:55 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+14 Apr 2015 09:58:32 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+15 Apr 2015 10:36:55 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+15 Apr 2015 10:36:55 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+15 Apr 2015 10:38:19 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0746_50447_I2014_Z_6660_303_040.csv
+15 Apr 2015 10:39:03 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+15 Apr 2015 10:39:04 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+15 Apr 2015 10:39:32 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+15 Apr 2015 10:39:33 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+15 Apr 2015 10:39:47 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0746_50447_I2014_Z_6660_303_040.csv
+15 Apr 2015 10:40:20 [main] DEBUG tempepreloader.GroupList  - 50447
+15 Apr 2015 10:41:34 [main] DEBUG tempepreloader.Group  - Callout 114-Leather Zara Girl omitted from output
+15 Apr 2015 10:42:00 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-15--10-41-06.txt
+15 Apr 2015 10:42:02 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-15--10-41-06.txt
+15 Apr 2015 12:19:19 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+15 Apr 2015 12:48:57 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+15 Apr 2015 12:48:57 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 10:42:48 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 10:42:48 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 10:42:48 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 11:31:25 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 11:31:25 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 11:31:25 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 11:31:26 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:03:12 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+16 Apr 2015 15:04:30 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:04:30 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:04:30 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:04:35 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-16--03-04-35.txt
+16 Apr 2015 15:09:27 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:09:28 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:09:31 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:10:04 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-16--03-10-04.txt
+16 Apr 2015 15:11:23 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:11:23 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:11:23 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:19:58 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:19:58 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:19:58 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:24:38 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:26:29 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:26:29 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:26:29 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:26:31 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:27:23 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+16 Apr 2015 15:27:48 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:27:48 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:27:48 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:27:50 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:28:53 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:28:53 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:28:53 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:28:54 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:31:18 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:31:18 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:31:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:31:19 [main] DEBUG tempepreloader.GroupList  - 26052
+16 Apr 2015 15:35:56 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+16 Apr 2015 15:35:56 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+16 Apr 2015 15:35:56 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+16 Apr 2015 15:35:57 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 09:47:51 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+20 Apr 2015 09:47:51 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+20 Apr 2015 09:47:51 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+20 Apr 2015 09:47:54 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 12:01:06 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+20 Apr 2015 12:01:06 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+20 Apr 2015 12:01:06 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+20 Apr 2015 12:01:09 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 12:04:03 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+20 Apr 2015 12:04:03 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+20 Apr 2015 12:04:03 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+20 Apr 2015 12:04:05 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 12:04:29 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:30 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-20--12-04-06.txt
+20 Apr 2015 12:04:35 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-20--12-04-06.txt
+20 Apr 2015 12:23:42 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+20 Apr 2015 12:23:42 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+20 Apr 2015 12:23:42 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+20 Apr 2015 12:23:43 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 12:27:43 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+20 Apr 2015 12:27:50 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+20 Apr 2015 12:30:10 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+20 Apr 2015 12:30:11 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+20 Apr 2015 12:30:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+20 Apr 2015 12:30:59 [main] DEBUG tempepreloader.GroupList  - 26052
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-20--12-31-24.txt
+20 Apr 2015 12:33:36 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-20--12-31-24.txt
+21 Apr 2015 10:11:06 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+21 Apr 2015 10:11:06 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+21 Apr 2015 10:11:06 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+21 Apr 2015 10:11:10 [main] DEBUG tempepreloader.GroupList  - 26052
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1192_25091_V2015_Z_2080_003_121.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.GroupList  - 25091
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1554_5607_I2015_Z_6120_003_001.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.GroupList  - 5607
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.GroupList  - 6799
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_5580_I2015_Z_7501_001_050.csv
+21 Apr 2015 10:11:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_5581_I2015_Z_7501_001_050.csv
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-21--10-11-14.txt
+21 Apr 2015 10:11:26 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-21--10-11-14.txt
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_26052_V2015_Z_2769_002_040.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.GroupList  - 26052
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1192_25091_V2015_Z_2080_003_121.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.GroupList  - 25091
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1554_5607_I2015_Z_6120_003_001.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.GroupList  - 5607
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.GroupList  - 6799
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_5580_I2015_Z_7501_001_050.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_5581_I2015_Z_7501_001_050.csv
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-22--11-37-15.txt
+22 Apr 2015 11:37:15 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--11-37-15.txt
+22 Apr 2015 11:45:42 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:45:42 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:45:42 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:45:42 [main] DEBUG tempepreloader.GroupList  - 6799
+22 Apr 2015 11:46:19 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:46:58 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:46:58 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:46:58 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:49:21 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:49:21 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:49:21 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:49:43 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:49:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:49:45 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--11-49-45.txt
+22 Apr 2015 11:52:33 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:52:33 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:52:33 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:52:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:52:38 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:52:38 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--11-52-38.txt
+22 Apr 2015 11:53:18 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:53:18 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:53:21 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:53:24 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:53:26 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 11:59:48 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 11:59:48 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 11:59:56 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:06:23 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:06:23 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:06:26 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:15:37 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:15:37 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:15:39 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:17:02 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:17:02 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:17:04 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:17:05 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:17:07 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:17:07 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--12-17-07.txt
+22 Apr 2015 12:17:46 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:17:46 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:17:48 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:18:15 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:18:15 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:18:19 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:19:04 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:19:04 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:19:05 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:20:09 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 12:20:09 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 12:20:14 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6799_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:20:50 [main] DEBUG tempepreloader.GroupList  - 6799
+22 Apr 2015 12:20:56 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6800_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.GroupList  - 6800
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\2132_6801_I2015_Z_5101_002_107.csv
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.GroupList  - 6801
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-22--12-20-58.txt
+22 Apr 2015 12:20:58 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--12-20-58.txt
+22 Apr 2015 15:54:52 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 15:54:52 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 15:54:57 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 15:54:59 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_301_I2015_M_5103_023_700.csv
+22 Apr 2015 15:55:00 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_101_V2015_H_0032_071_111.csv
+22 Apr 2015 15:55:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_102_V2015_H_0032_071_111.csv
+22 Apr 2015 15:55:05 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--03-55-04.txt
+22 Apr 2015 15:55:57 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 15:55:57 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 15:56:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 15:57:19 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 15:57:19 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 15:57:23 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 15:57:50 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 15:57:50 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 15:57:54 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 17:03:36 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 17:03:36 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 17:03:41 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 17:04:32 [main] DEBUG tempepreloader.GroupList  - 201
+22 Apr 2015 17:04:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_301_I2015_M_5103_023_700.csv
+22 Apr 2015 17:04:37 [main] DEBUG tempepreloader.GroupList  - 301
+22 Apr 2015 17:04:37 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_101_V2015_H_0032_071_111.csv
+22 Apr 2015 17:04:39 [main] DEBUG tempepreloader.GroupList  - 101
+22 Apr 2015 17:04:39 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_102_V2015_H_0032_071_111.csv
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-22--05-04-40.txt
+22 Apr 2015 17:04:40 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--05-04-40.txt
+22 Apr 2015 17:08:16 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+22 Apr 2015 17:08:16 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+22 Apr 2015 17:08:23 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_201_V2015_M_2170_022_7091.csv
+22 Apr 2015 17:08:38 [main] DEBUG tempepreloader.GroupList  - 201
+22 Apr 2015 17:10:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0928_301_I2015_M_5103_023_700.csv
+22 Apr 2015 17:10:26 [main] DEBUG tempepreloader.GroupList  - 301
+22 Apr 2015 17:10:31 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_101_V2015_H_0032_071_111.csv
+22 Apr 2015 17:10:55 [main] DEBUG tempepreloader.GroupList  - 101
+22 Apr 2015 17:11:00 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\1594_102_V2015_H_0032_071_111.csv
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 139-MD Kids 32-38 omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.Group  - Callout 6-SIN LIMPIEZA omitted from output
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-22--05-11-58.txt
+22 Apr 2015 17:11:58 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-22--05-11-58.txt
+27 Apr 2015 14:18:52 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 14:18:52 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 14:18:56 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 14:19:01 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 14:41:02 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+27 Apr 2015 14:41:33 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 14:41:33 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 14:41:45 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 14:41:47 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 14:48:29 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 14:48:29 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 14:48:29 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 14:48:29 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 14:50:17 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 14:50:17 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 14:50:17 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 14:50:17 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:32:49 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 15:32:49 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 15:32:49 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 15:32:49 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:32:58 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:32:58 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:32:59 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:32:59 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:33:00 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:33:08 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:33:44 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-27--03-32-53.txt
+27 Apr 2015 15:33:47 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-27--03-32-53.txt
+27 Apr 2015 15:36:15 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 15:36:15 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 15:36:15 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 15:36:15 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-27--03-36-20.txt
+27 Apr 2015 15:36:20 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-27--03-36-20.txt
+27 Apr 2015 15:37:02 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 15:37:02 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 15:37:03 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 15:37:03 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:53:28 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 15:53:28 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 15:53:28 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 15:53:28 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:58:18 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+27 Apr 2015 15:58:18 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+27 Apr 2015 15:58:18 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\0478_12527_I2015_Z_6607_001_040.csv
+27 Apr 2015 15:58:18 [main] DEBUG tempepreloader.GroupList  - 12527
+27 Apr 2015 15:59:27 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA102 omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 104-ET. PIEL BASIC omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.Group  - Callout 56-35/42 Zara.com omitted from output
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-04-27--03-58-22.txt
+27 Apr 2015 15:59:32 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-04-27--03-58-22.txt
+29 May 2015 16:30:27 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:30:28 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:30:36 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:30:37 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 16:31:59 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14886_I2015_Z_5053_001_040.csv
+29 May 2015 16:32:00 [main] DEBUG tempepreloader.GroupList  - 14886_TEST_ECU3
+29 May 2015 16:32:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14887_I2015_Z_5053_001_040.csv
+29 May 2015 16:36:11 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:36:11 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:36:11 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:37:42 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:37:42 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:37:42 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:37:51 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14886_I2015_Z_5053_001_040.csv
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.GroupList  - 14886_TEST_ECU3
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14887_I2015_Z_5053_001_040.csv
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-05-29--04-38-06.txt
+29 May 2015 16:38:06 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-05-29--04-38-06.txt
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14886_I2015_Z_5053_001_040.csv
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.GroupList  - 14886_TEST_ECU3
+29 May 2015 16:45:02 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14887_I2015_Z_5053_001_040.csv
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-05-29--04-45-02.txt
+29 May 2015 16:45:32 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-05-29--04-45-02.txt
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14886_I2015_Z_5053_001_040.csv
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.GroupList  - 14886_TEST_ECU3
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14887_I2015_Z_5053_001_040.csv
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-05-29--04-48-04.txt
+29 May 2015 16:48:04 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-05-29--04-48-04.txt
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14886_I2015_Z_5053_001_040.csv
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.GroupList  - 14886_TEST_ECU3
+29 May 2015 16:52:35 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14887_I2015_Z_5053_001_040.csv
+29 May 2015 16:54:36 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:37 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:38 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:38 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:39 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-05-29--04-52-35.txt
+29 May 2015 16:54:49 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-05-29--04-52-35.txt
+29 May 2015 16:58:00 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 16:58:00 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 16:58:00 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 16:58:00 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 17:01:54 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 17:01:54 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 17:01:54 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 17:03:42 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 17:06:44 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:08:26 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+29 May 2015 17:08:52 [main] DEBUG tempepreloader.TempePreloader  - Nothing found to process
+29 May 2015 17:11:19 [main] DEBUG tempepreloader.TempePreloader  - Input folder=C:\Tempe\Input
+29 May 2015 17:11:19 [main] DEBUG tempepreloader.TempePreloader  - Output folder=C:\Tempe\Output
+29 May 2015 17:11:19 [main] DEBUG tempepreloader.TempePreloader  - Processing...C:\Tempe\Input\247_14885_I2015_Z_5053_001_040.csv
+29 May 2015 17:11:19 [main] DEBUG tempepreloader.GroupList  - 14885_TEST
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout TEI15ZA103 omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.Group  - Callout 116-Authentic Leather Zara Woman omitted from output
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.TempePreloader  - Saved...C:\Tempe\Output\TEMPE-2015-05-29--05-11-19.txt
+29 May 2015 17:12:01 [main] DEBUG tempepreloader.TempePreloader  - Finished...TEMPE-2015-05-29--05-11-19.txt
